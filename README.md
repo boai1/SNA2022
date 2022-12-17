@@ -21,3 +21,6 @@ In order to run the main.py file, do the following:
    
 3) run main.py
 
+# Results
+The ./results directory already contains 3 subfolders containing the results for each individual strategy and individual graph, the figures plotted for the report and a .csv file containing all of the results
+

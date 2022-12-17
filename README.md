@@ -11,6 +11,8 @@ In order to run the main.py file, do the following:
   https://drive.google.com/drive/folders/1UPAU1kUnXTO-GdP7w_bdkp8TMuAApUX_?usp=sharing
   
 2) add the .csv files to the following directory: SNACS2022/data/ 
-   Note: This directory already contains 
+
+   Note: This directory already contains the amazon.csv and dblp_undirected.csv graph edgelists. The code can be run using only these 2 graphs, but at some point it will return an error due to the absence of the other graphs, which were too big for github. 
+   
 3) run main.py
 
